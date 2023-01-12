@@ -6,7 +6,7 @@
 const leonardo = {
   code: [Javascript, PHP, HTML, CSS, Typescript],
   tools: [React, Node, Styled-Components, Docker],
-  currentFocus: "improving my skills in React",
+  currentFocus: "improving my skills in React"
 }
 ```
 
