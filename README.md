@@ -4,9 +4,9 @@
 
 ```
 const leonardo = {
-  code: [Javascript, PHP, HTML, CSS, Typescript],
+  code: [Javascript, PHP, HTML, CSS, Typescript, Ruby],
   tools: [React, Node, Styled-Components, Docker],
-  currentFocus: "improving my skills in React"
+  currentFocus: "improving my skills in React and Ruby"
 }
 ```
 
